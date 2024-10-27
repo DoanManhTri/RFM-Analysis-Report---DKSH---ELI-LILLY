@@ -21,6 +21,19 @@ The targeted strategies outlined in this RFM analysis are expected to significan
 
 This project demonstrates strong proficiency in leveraging RFM analysis to optimize marketing strategies, segment customers effectively, and drive revenue growth, making it highly relevant for data analyst roles in customer-focused industries.
 
+## Table of Contents
+- [Technologies Used](#Technologies-Used)
+- [Data Source](#Data-Source)
+- [Features](#Features)
+- [Business Question](#Business-Question)
+- [Methodology](#Methodology)
+- [Business Question Specific Insights and Recommendations](#Business-Question-Specific-Insights-and-Recommendations)
+- [Stakeholder Recommended Next Steps](#Stakeholder-Recommended-Next-Steps)
+- [Recommendations for Future Analysis](#Recommendations-for-Future-Analysis)
+- [Estimated Impact of Proposed Actions with Cited Industry Benchmarks](#Estimated-Impact-of-Proposed-Actions-with-Cited-Industry-Benchmarks)
+- [Contact](#Contact)
+- [Screenshots](#Screenshots)
+
 ## Technologies Used
 ## Data Source
 ## Features
