@@ -17,4 +17,5 @@ The targeted strategies outlined in this RFM analysis are expected to significan
 - **Business Strategy Development:** Translated customer insights into targeted marketing strategies aligned with business goals to improve CLV, RPU, and CRR.
 - **Interactive Visualizations:** Designed an engaging multi-page Power BI dashboard with dynamic filters and tooltips, allowing for deep exploration of customer segments and trends.
 - **Actionable Insights:** Delivered detailed, data-driven recommendations to enhance customer retention and engagement, showcasing the ability to convert complex data into impactful business strategies.
+
 This project demonstrates strong proficiency in leveraging RFM analysis to optimize marketing strategies, segment customers effectively, and drive revenue growth, making it highly relevant for data analyst roles in customer-focused industries.
