@@ -1,1 +1,3 @@
 # RFM-Analysis-Report-DKSH
+Executive Summary
+This project utilizes RFM (Recency, Frequency, Monetary) analysis on a dataset of 123,000 sales transactions involving 5,242 SKUs and 22,600 customers over one year to provide comprehensive insights into customer behavior and segmentation. By understanding and segmenting customers based on their purchase behavior, this analysis offers actionable strategies to enhance customer retention, optimize marketing spend, and increase overall profitability. The project highlights key customer segments and proposes targeted marketing strategies that are projected to improve Customer Retention Rate (CRR) by 15%, increase Revenue per User (RPU) by 12%, and boost Customer Lifetime Value (CLV) by 18%.
