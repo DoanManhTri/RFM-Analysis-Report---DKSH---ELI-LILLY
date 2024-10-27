@@ -7,6 +7,7 @@ This project utilizes RFM (Recency, Frequency, Monetary) analysis on a dataset o
 - **High-Value Customer Segments**: Identified key segments such as "Champions" and "Promising Customers" that account for a significant share of revenue. By focusing on these high-engagement customers, targeted loyalty and marketing programs are projected to boost Customer Lifetime Value (CLV) by 18% and Revenue per User (RPU) by 12%.
 - **At-Risk Customer Groups**: Segments such as "At Risk" and "About to Sleep" require re-engagement to prevent churn. Personalized incentives and retention strategies for these groups are expected to increase the Customer Retention Rate (CRR) by 15%.
 - **Growth Potential in New and Lost Customers**: "New Customers" and "Lost Customers" segments present opportunities for long-term growth. Win-back campaigns and nurturing strategies are estimated to drive further gains in CLV and RPU.
+  
 **Impact:**
 
 The targeted strategies outlined in this RFM analysis are expected to significantly improve key business metrics, including a 15% increase in CRR, a 12% boost in RPU, and an 18% growth in CLV, providing a clear roadmap for driving customer engagement and maximizing profitability.
