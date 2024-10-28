@@ -102,4 +102,43 @@ For more information, please contact:
 **Email:** Tridoan9353@gmail.com
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/9c3de211-83d5-4665-a9c5-cb1c31124ab7)
+Dashboard Overview Page
+
+![image](https://github.com/user-attachments/assets/368b9fe6-db16-4b6d-824d-d4bedf81097b)
+RFM Dashboard
+
+![image](https://github.com/user-attachments/assets/5f30f0a7-0899-43af-8b3a-f6863d3bcde7)
+Customer Segmentation
+
+![image](https://github.com/user-attachments/assets/fca1094d-5556-4a9f-8c49-4c30b238ac69)
+Recency Analysis Page
+
+![image](https://github.com/user-attachments/assets/1b162094-f9ce-442b-9f26-14584ab7bd5e)
+Frequency Analysis Page
+
+![image](https://github.com/user-attachments/assets/13b165ab-5041-4c6f-8629-5c30e28ead6c)
+Monetary Analysis Page
+
+![image](https://github.com/user-attachments/assets/9a21084e-20b1-459a-9c2d-14066c3f02a0)
+Conclusion and Recommendations
+
+![image](https://github.com/user-attachments/assets/a8399d10-77a5-427c-827c-8a458ecc8696)
+Next Steps
+
+![image](https://github.com/user-attachments/assets/7d723d73-a3df-4dcc-9ae2-26eaad12a08c)
+Timelines and Roadmaps
+
+![image](https://github.com/user-attachments/assets/fc4a2ff7-2bbc-479b-a101-85c64954fc7b)
+Details
+
+
+
+
+
+
+
+
+
+
+
 
