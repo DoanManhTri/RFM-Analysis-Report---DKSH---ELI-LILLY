@@ -30,7 +30,6 @@ This project demonstrates strong proficiency in leveraging RFM analysis to optim
 - [Business Question Specific Insights and Recommendations](#Business-Question-Specific-Insights-and-Recommendations)
 - [Stakeholder Recommended Next Steps](#Stakeholder-Recommended-Next-Steps)
 - [Recommendations for Future Analysis](#Recommendations-for-Future-Analysis)
-- [Estimated Impact of Proposed Actions with Cited Industry Benchmarks](#Estimated-Impact-of-Proposed-Actions-with-Cited-Industry-Benchmarks)
 - [Contact](#Contact)
 - [Screenshots](#Screenshots)
 
@@ -92,7 +91,15 @@ Retention of At-Risk Segments: Re-engage at-risk segments, such as About To Slee
 
 - **Dynamic Strategy Adjustment:** Regularly assess the contributions of different customer segments to the overall revenue and adjust marketing and retention strategies based on evolving customer behaviors and insights, with the goal of maintaining projected improvements in CLV, CRR, and RPU.
 ## Recommendations for Future Analysis
-
-## Estimated Impact of Proposed Actions with Cited Industry Benchmarks
+- **Customer Lifetime Value (CLV) Evaluation:** Conduct an in-depth analysis of customer lifetime value to pinpoint long-term revenue potential and optimize the allocation of resources accordingly.
+- **Churn Prediction:** Develop predictive models to identify customers at risk of churning and implement proactive retention strategies to mitigate this risk.
+- **Enhanced Segmentation:** Investigate additional segmentation criteria beyond RFM, including customer demographics and behavior patterns, to refine and enhance marketing strategies.
 ## Contact
+For more information, please contact:
+
+**Name:** Doan Manh Tri
+
+**Email:** Tridoan9353@gmail.com
 ## Screenshots
+![image](https://github.com/user-attachments/assets/9c3de211-83d5-4665-a9c5-cb1c31124ab7)
+
